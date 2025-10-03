@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "orbit-boost"
-version = "0.1.1"
+version = "0.1.1.post1"
 description = "Orbit Boost: oblique softmax boosting with ridge warm-start and BOSS sampling"
 readme = "README.md"
 license = { text = "MIT" }
