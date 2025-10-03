@@ -3,7 +3,6 @@ import time
 import numpy as np
 
 from sklearn.tree import DecisionTreeRegressor
-from sklearn.neighbors import NearestNeighbors  # only for type hints in docstrings (not used directly)
 from sklearn.utils import check_random_state
 from sklearn.base import BaseEstimator, ClassifierMixin
 from sklearn.utils.validation import check_is_fitted
