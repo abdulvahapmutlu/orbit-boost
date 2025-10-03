@@ -1,7 +1,6 @@
 # 🚀 Orbit Boost
 
 [![PyPI version](https://img.shields.io/pypi/v/orbit-boost?color=blue&logo=pypi)](https://pypi.org/project/orbit-boost/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/orbit-boost?logo=python&logoColor=yellow)](https://pypi.org/project/orbit-boost/)
 [![License](https://img.shields.io/github/license/abdulvahapmutlu/orbit-boost?color=green)](LICENSE)
 [![CI](https://github.com/abdulvahapmutlu/orbit-boost/actions/workflows/ci.yml/badge.svg)](https://github.com/abdulvahapmutlu/orbit-boost/actions/workflows/ci.yml)
 
